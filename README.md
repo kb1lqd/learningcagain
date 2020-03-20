@@ -11,3 +11,13 @@ Compiling a basic file:
 '''
 gcc -g main.c -o main.exe
 '''
+
+Compiling 2 files together:
+
+'''
+gcc -g .\main.c .\support.c -o extern.exe
+'''
+
+# Tutorials
+
+* [Tutorials Point](https://www.tutorialspoint.com/cprogramming/c_data_types.htm)
