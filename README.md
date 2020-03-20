@@ -8,6 +8,6 @@ This readme will be a note-pad of info/commands that I find useful.
 
 Compiling a basic file:
 
-'''console
+'''
 gcc -g main.c -o main.exe
 '''
